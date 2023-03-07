@@ -1,0 +1,30 @@
+2023-Mar-06 16:29:04 PM [main] INFO  vit.automation.stepdefs.StepDef - Browser got set
+2023-Mar-06 16:29:04 PM [main] INFO  vit.automation.stepdefs.StepDef - Browser got maximized
+2023-Mar-06 16:29:04 PM [main] INFO  vit.automation.stepdefs.StepDef - Browser Implicit timeout set to -> 20
+2023-Mar-06 16:29:10 PM [main] INFO  vit.automation.stepdefs.StepDef - Browser got invoked with URL as -> https://amazon.in
+2023-Mar-06 16:29:10 PM [main] INFO  vit.automation.stepdefs.StepDef - Assertion for page title validation is passed with expected as -> Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in and actual as -> Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+2023-Mar-06 16:29:10 PM [main] INFO  vit.automation.stepdefs.StepDef - webDriverWait time out set to -> 20
+2023-Mar-06 16:29:11 PM [main] INFO  vit.automation.stepdefs.StepDef - Waiting for webelement -> elementSearchBox to be clickeble
+2023-Mar-06 16:29:11 PM [main] INFO  vit.automation.stepdefs.StepDef - sending keys into webelement -> elementSearchBox
+2023-Mar-06 16:29:17 PM [main] INFO  vit.automation.stepdefs.StepDef - clicking on the search button
+2023-Mar-06 16:29:17 PM [main] INFO  vit.automation.stepdefs.StepDef - Browser got closed
+2023-Mar-06 16:29:19 PM [main] INFO  vit.automation.stepdefs.StepDef - Browser got set
+2023-Mar-06 16:29:19 PM [main] INFO  vit.automation.stepdefs.StepDef - Browser got maximized
+2023-Mar-06 16:29:19 PM [main] INFO  vit.automation.stepdefs.StepDef - Browser Implicit timeout set to -> 20
+2023-Mar-06 16:29:26 PM [main] INFO  vit.automation.stepdefs.StepDef - Browser got invoked with URL as -> https://amazon.in
+2023-Mar-06 16:29:26 PM [main] INFO  vit.automation.stepdefs.StepDef - Assertion for page title validation is passed with expected as -> Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in and actual as -> Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+2023-Mar-06 16:29:26 PM [main] INFO  vit.automation.stepdefs.StepDef - webDriverWait time out set to -> 20
+2023-Mar-06 16:29:27 PM [main] INFO  vit.automation.stepdefs.StepDef - Waiting for webelement -> elementSearchBox to be clickeble
+2023-Mar-06 16:29:28 PM [main] INFO  vit.automation.stepdefs.StepDef - sending keys into webelement -> elementSearchBox
+2023-Mar-06 16:29:34 PM [main] INFO  vit.automation.stepdefs.StepDef - clicking on the search button
+2023-Mar-06 16:29:35 PM [main] INFO  vit.automation.stepdefs.StepDef - Browser got closed
+2023-Mar-06 16:29:36 PM [main] INFO  vit.automation.stepdefs.StepDef - Browser got set
+2023-Mar-06 16:29:36 PM [main] INFO  vit.automation.stepdefs.StepDef - Browser got maximized
+2023-Mar-06 16:29:36 PM [main] INFO  vit.automation.stepdefs.StepDef - Browser Implicit timeout set to -> 20
+2023-Mar-06 16:29:42 PM [main] INFO  vit.automation.stepdefs.StepDef - Browser got invoked with URL as -> https://amazon.in
+2023-Mar-06 16:29:43 PM [main] INFO  vit.automation.stepdefs.StepDef - Assertion for page title validation is passed with expected as -> Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in and actual as -> Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+2023-Mar-06 16:29:43 PM [main] INFO  vit.automation.stepdefs.StepDef - webDriverWait time out set to -> 20
+2023-Mar-06 16:29:43 PM [main] INFO  vit.automation.stepdefs.StepDef - Waiting for webelement -> elementSearchBox to be clickeble
+2023-Mar-06 16:29:44 PM [main] INFO  vit.automation.stepdefs.StepDef - sending keys into webelement -> elementSearchBox
+2023-Mar-06 16:29:50 PM [main] INFO  vit.automation.stepdefs.StepDef - clicking on the search button
+2023-Mar-06 16:30:01 PM [main] INFO  vit.automation.stepdefs.StepDef - Browser got closed
