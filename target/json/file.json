@@ -3,222 +3,14 @@
     "line": 3,
     "elements": [
       {
-        "start_timestamp": "2023-03-06T10:58:59.072Z",
+        "start_timestamp": "2023-03-09T11:13:55.102Z",
         "before": [
           {
             "output": [
               "Browser got invoked"
             ],
             "result": {
-              "duration": 5348732800,
-              "status": "passed"
-            },
-            "match": {
-              "location": "vit.automation.stepdefs.StepDef.setup(io.cucumber.java.Scenario)"
-            }
-          }
-        ],
-        "line": 5,
-        "name": "User is able to Open the application and able to perform search opeartion for Tablet",
-        "description": "",
-        "id": "e-commerce-project-web-site-health-check;user-is-able-to-open-the-application-and-able-to-perform-search-opeartion-for-tablet",
-        "after": [
-          {
-            "output": [
-              "Browser got closed"
-            ],
-            "result": {
-              "duration": 491696800,
-              "status": "passed"
-            },
-            "match": {
-              "location": "vit.automation.stepdefs.StepDef.tearDown()"
-            }
-          }
-        ],
-        "type": "scenario",
-        "keyword": "Scenario",
-        "steps": [
-          {
-            "output": [
-              "User navigated to the landing page of application"
-            ],
-            "result": {
-              "duration": 6009089300,
-              "status": "passed"
-            },
-            "line": 7,
-            "name": "User navigated to the landing page of application",
-            "match": {
-              "location": "vit.automation.stepdefs.StepDef.user_navigated_to_the_landing_page_of_application()"
-            },
-            "keyword": "Given "
-          },
-          {
-            "output": [
-              "User Searched for product"
-            ],
-            "result": {
-              "duration": 6704860700,
-              "status": "passed"
-            },
-            "line": 8,
-            "name": "User Search for product \"Tablet\"",
-            "match": {
-              "arguments": [
-                {
-                  "val": "\"Tablet\"",
-                  "offset": 24
-                }
-              ],
-              "location": "vit.automation.stepdefs.StepDef.user_search_for_product(java.lang.String)"
-            },
-            "keyword": "When "
-          },
-          {
-            "output": [
-              "Search Result page is displayed"
-            ],
-            "result": {
-              "duration": 172394000,
-              "status": "passed"
-            },
-            "line": 9,
-            "name": "Search Result page is displayed \"Tablet\"",
-            "match": {
-              "arguments": [
-                {
-                  "val": "\"Tablet\"",
-                  "offset": 32
-                }
-              ],
-              "location": "vit.automation.stepdefs.StepDef.search_result_page_is_displayed(java.lang.String)"
-            },
-            "keyword": "Then "
-          }
-        ],
-        "tags": [
-          {
-            "name": "@ui"
-          },
-          {
-            "name": "@Search"
-          }
-        ]
-      },
-      {
-        "start_timestamp": "2023-03-06T10:59:18.010Z",
-        "before": [
-          {
-            "output": [
-              "Browser got invoked"
-            ],
-            "result": {
-              "duration": 1808408700,
-              "status": "passed"
-            },
-            "match": {
-              "location": "vit.automation.stepdefs.StepDef.setup(io.cucumber.java.Scenario)"
-            }
-          }
-        ],
-        "line": 13,
-        "name": "User is able to Open the application and able to perform search opeartion for Mobiles",
-        "description": "",
-        "id": "e-commerce-project-web-site-health-check;user-is-able-to-open-the-application-and-able-to-perform-search-opeartion-for-mobiles",
-        "after": [
-          {
-            "output": [
-              "Browser got closed"
-            ],
-            "result": {
-              "duration": 453292800,
-              "status": "passed"
-            },
-            "match": {
-              "location": "vit.automation.stepdefs.StepDef.tearDown()"
-            }
-          }
-        ],
-        "type": "scenario",
-        "keyword": "Scenario",
-        "steps": [
-          {
-            "output": [
-              "User navigated to the landing page of application"
-            ],
-            "result": {
-              "duration": 6956972400,
-              "status": "passed"
-            },
-            "line": 15,
-            "name": "User navigated to the landing page of application",
-            "match": {
-              "location": "vit.automation.stepdefs.StepDef.user_navigated_to_the_landing_page_of_application()"
-            },
-            "keyword": "Given "
-          },
-          {
-            "output": [
-              "User Searched for product"
-            ],
-            "result": {
-              "duration": 7721137000,
-              "status": "passed"
-            },
-            "line": 16,
-            "name": "User Search for product \"Mobiles\"",
-            "match": {
-              "arguments": [
-                {
-                  "val": "\"Mobiles\"",
-                  "offset": 24
-                }
-              ],
-              "location": "vit.automation.stepdefs.StepDef.user_search_for_product(java.lang.String)"
-            },
-            "keyword": "When "
-          },
-          {
-            "output": [
-              "Search Result page is displayed"
-            ],
-            "result": {
-              "duration": 231857500,
-              "status": "passed"
-            },
-            "line": 17,
-            "name": "Search Result page is displayed \"Mobiles\"",
-            "match": {
-              "arguments": [
-                {
-                  "val": "\"Mobiles\"",
-                  "offset": 32
-                }
-              ],
-              "location": "vit.automation.stepdefs.StepDef.search_result_page_is_displayed(java.lang.String)"
-            },
-            "keyword": "Then "
-          }
-        ],
-        "tags": [
-          {
-            "name": "@ui"
-          },
-          {
-            "name": "@Search"
-          }
-        ]
-      },
-      {
-        "start_timestamp": "2023-03-06T10:59:35.217Z",
-        "before": [
-          {
-            "output": [
-              "Browser got invoked"
-            ],
-            "result": {
-              "duration": 1577826000,
+              "duration": 4257813500,
               "status": "passed"
             },
             "match": {
@@ -236,7 +28,7 @@
               "Browser got closed"
             ],
             "result": {
-              "duration": 768529000,
+              "duration": 898448800,
               "status": "passed"
             },
             "match": {
@@ -252,7 +44,7 @@
               "User navigated to the landing page of application"
             ],
             "result": {
-              "duration": 6575425400,
+              "duration": 7337462300,
               "status": "passed"
             },
             "line": 23,
@@ -267,7 +59,7 @@
               "User Searched for product"
             ],
             "result": {
-              "duration": 7533572500,
+              "duration": 6063721700,
               "status": "passed"
             },
             "line": 24,
@@ -288,7 +80,7 @@
               "User click on any product"
             ],
             "result": {
-              "duration": 10167303000,
+              "duration": 1332180300,
               "status": "passed"
             },
             "line": 25,
@@ -299,10 +91,12 @@
             "keyword": "When "
           },
           {
+            "output": [
+              "Product Description is displayed in new tab"
+            ],
             "result": {
-              "error_message": "java.util.NoSuchElementException\r\n\tat java.base/java.util.LinkedHashMap$LinkedHashIterator.nextNode(LinkedHashMap.java:758)\r\n\tat java.base/java.util.LinkedHashMap$LinkedKeyIterator.next(LinkedHashMap.java:778)\r\n\tat vit.automation.stepdefs.StepDef.product_description_is_displayed_in_new_tab(StepDef.java:123)\r\n\tat ✽.Product Description is displayed in new tab(classpath:features/HealthCheak.feature:26)\r\n",
-              "duration": 22986600,
-              "status": "failed"
+              "duration": 9417416500,
+              "status": "passed"
             },
             "line": 26,
             "name": "Product Description is displayed in new tab",

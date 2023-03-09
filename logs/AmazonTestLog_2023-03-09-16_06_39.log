@@ -1,0 +1,20 @@
+2023-Mar-09 16:06:42 PM [main] INFO  vit.automation.stepdefs.StepDef - Browser got set
+2023-Mar-09 16:06:43 PM [main] INFO  vit.automation.stepdefs.StepDef - Browser got maximized
+2023-Mar-09 16:06:43 PM [main] INFO  vit.automation.stepdefs.StepDef - Browser Implicit timeout set to -> 20
+2023-Mar-09 16:06:46 PM [main] INFO  vit.automation.pageobjects.LandingPageObjects - Browser got invoked with URL as -> https://amazon.in
+2023-Mar-09 16:06:47 PM [main] INFO  vit.automation.pageobjects.LandingPageObjects - Assertion for page title validation is passed with expected as -> Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in and actual as -> Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+2023-Mar-09 16:06:48 PM [main] INFO  vit.automation.pageobjects.LandingPageObjects - Waiting for  webelement -> elementSearchBox to be clickeble
+2023-Mar-09 16:06:48 PM [main] INFO  vit.automation.pageobjects.LandingPageObjects - sending keys into webelement -> searchBoxElement
+2023-Mar-09 16:06:53 PM [main] INFO  vit.automation.pageobjects.LandingPageObjects - clicking on the search button
+2023-Mar-09 16:06:53 PM [main] INFO  vit.automation.pageobjects.ProductListingPageObject - Waiting for page title to be contain -> Tablet
+2023-Mar-09 16:07:14 PM [main] INFO  vit.automation.stepdefs.StepDef - Browser got closed
+2023-Mar-09 16:07:16 PM [main] INFO  vit.automation.stepdefs.StepDef - Browser got set
+2023-Mar-09 16:07:16 PM [main] INFO  vit.automation.stepdefs.StepDef - Browser got maximized
+2023-Mar-09 16:07:16 PM [main] INFO  vit.automation.stepdefs.StepDef - Browser Implicit timeout set to -> 20
+2023-Mar-09 16:07:20 PM [main] INFO  vit.automation.pageobjects.LandingPageObjects - Browser got invoked with URL as -> https://amazon.in
+2023-Mar-09 16:07:21 PM [main] INFO  vit.automation.pageobjects.LandingPageObjects - Assertion for page title validation is passed with expected as -> Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in and actual as -> Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+2023-Mar-09 16:07:21 PM [main] INFO  vit.automation.pageobjects.LandingPageObjects - Waiting for  webelement -> elementSearchBox to be clickeble
+2023-Mar-09 16:07:21 PM [main] INFO  vit.automation.pageobjects.LandingPageObjects - sending keys into webelement -> searchBoxElement
+2023-Mar-09 16:07:26 PM [main] INFO  vit.automation.pageobjects.LandingPageObjects - clicking on the search button
+2023-Mar-09 16:07:26 PM [main] INFO  vit.automation.pageobjects.ProductListingPageObject - Waiting for page title to be contain -> Mobiles
+2023-Mar-09 16:07:47 PM [main] INFO  vit.automation.stepdefs.StepDef - Browser got closed

@@ -1,0 +1,9 @@
+2023-Mar-09 16:39:59 PM [main] INFO  vit.automation.stepdefs.StepDef - Browser got set
+2023-Mar-09 16:39:59 PM [main] INFO  vit.automation.stepdefs.StepDef - Browser got maximized
+2023-Mar-09 16:39:59 PM [main] INFO  vit.automation.stepdefs.StepDef - Browser Implicit timeout set to -> 20
+2023-Mar-09 16:40:05 PM [main] INFO  vit.automation.pageobjects.LandingPageObjects - Browser got invoked with URL as -> https://amazon.in
+2023-Mar-09 16:40:05 PM [main] INFO  vit.automation.pageobjects.LandingPageObjects - Assertion for page title validation is passed with expected as -> Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in and actual as -> Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+2023-Mar-09 16:40:06 PM [main] INFO  vit.automation.pageobjects.LandingPageObjects - Waiting for  webelement -> elementSearchBox to be clickeble
+2023-Mar-09 16:40:07 PM [main] INFO  vit.automation.pageobjects.LandingPageObjects - sending keys into webelement -> searchBoxElement
+2023-Mar-09 16:40:12 PM [main] INFO  vit.automation.pageobjects.LandingPageObjects - clicking on the search button
+2023-Mar-09 16:40:43 PM [main] INFO  vit.automation.stepdefs.StepDef - Browser got closed

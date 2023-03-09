@@ -1,0 +1,18 @@
+2023-Mar-08 18:58:11 PM [main] INFO  vit.automation.stepdefs.StepDef - Browser got set
+2023-Mar-08 18:58:11 PM [main] INFO  vit.automation.stepdefs.StepDef - Browser got maximized
+2023-Mar-08 18:58:11 PM [main] INFO  vit.automation.stepdefs.StepDef - Browser Implicit timeout set to -> 20
+2023-Mar-08 18:58:17 PM [main] INFO  vit.automation.stepdefs.StepDef - Browser got invoked with URL as -> https://amazon.in
+2023-Mar-08 18:58:18 PM [main] INFO  vit.automation.stepdefs.StepDef - Assertion for page title validation is passed with expected as -> Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in and actual as -> Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+2023-Mar-08 18:58:18 PM [main] INFO  vit.automation.pageobjects.LandingPageObjects - Waiting for webelement -> elementSearchBox to be clickeble
+2023-Mar-08 18:58:19 PM [main] INFO  vit.automation.pageobjects.LandingPageObjects - sending keys into webelement -> searchBoxElement
+2023-Mar-08 18:58:24 PM [main] INFO  vit.automation.pageobjects.LandingPageObjects - clicking on the search button
+2023-Mar-08 18:58:25 PM [main] INFO  vit.automation.stepdefs.StepDef - Browser got closed
+2023-Mar-08 18:58:27 PM [main] INFO  vit.automation.stepdefs.StepDef - Browser got set
+2023-Mar-08 18:58:27 PM [main] INFO  vit.automation.stepdefs.StepDef - Browser got maximized
+2023-Mar-08 18:58:27 PM [main] INFO  vit.automation.stepdefs.StepDef - Browser Implicit timeout set to -> 20
+2023-Mar-08 18:58:33 PM [main] INFO  vit.automation.stepdefs.StepDef - Browser got invoked with URL as -> https://amazon.in
+2023-Mar-08 18:58:33 PM [main] INFO  vit.automation.stepdefs.StepDef - Assertion for page title validation is passed with expected as -> Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in and actual as -> Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+2023-Mar-08 18:58:34 PM [main] INFO  vit.automation.pageobjects.LandingPageObjects - Waiting for webelement -> elementSearchBox to be clickeble
+2023-Mar-08 18:58:34 PM [main] INFO  vit.automation.pageobjects.LandingPageObjects - sending keys into webelement -> searchBoxElement
+2023-Mar-08 18:58:40 PM [main] INFO  vit.automation.pageobjects.LandingPageObjects - clicking on the search button
+2023-Mar-08 18:58:40 PM [main] INFO  vit.automation.stepdefs.StepDef - Browser got closed
